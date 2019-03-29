@@ -1,0 +1,26 @@
+{
+  "name": "foodrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "hapi": "17.8.5",
+    "hapi-auth-basic": "^5.0.0",
+    "hapi-swagger": "^9.4.2",
+    "inert": "^5.1.2",
+    "joi": "^14.3.1",
+    "joi-date-extensions": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.2.1",
+    "mongoose": "^5.4.20",
+    "mongoose-sequence": "^5.0.1",
+    "nodemon": "^1.18.10",
+    "vision": "^5.4.4"
+  }
+}
